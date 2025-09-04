@@ -1,4 +1,4 @@
-# 👨‍💻 Vinay Avvaru — @Vinay0905
+# 👨‍💻 Naga Vinay Avvaru — @Vinay0905
 
 🚀 Aspiring AI Generalist | VLSI Enthusiast | Full-stack Problem Solver
 
