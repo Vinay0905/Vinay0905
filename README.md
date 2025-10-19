@@ -17,7 +17,7 @@
 - ⚙️ **Building**: Agentic AI applications using LangGraph + LangChain
 - 📚 **Learning**: RAG pipelines, multi-index vector DBs, and OpenCV-based tracking
 - 🎯 **Exploring**: Dynamic pricing agents for e-commerce (Agentic RAG)
-- 🧩 **Problem Solving**: 200+ LeetCode challenges & counting
+- 🧩 **Problem Solving**: 300+ LeetCode challenges & counting
 - 🎯 **Goal**: To become a **next-gen AI Hardware Generalist**
 
 ---
