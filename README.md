@@ -57,6 +57,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinay0905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Vinay0905&theme=tokyonight&border_radius=10&background=1a1b27" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay0905&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinay0905&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+---
+
 ## 🏗️ Featured Projects
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
@@ -74,9 +97,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake.svg">
   </picture>
 </div>
 
