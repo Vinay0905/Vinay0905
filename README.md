@@ -62,7 +62,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinay0905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vinay0905&theme=tokyonight&border_radius=10&background=1a1b27" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Vinay0905&theme=tokyonight&border_radius=10&background=1a1b27" />
 
 <br/><br/>
 
@@ -97,11 +97,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vinay0905/Vinay0905/main/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vinay0905/Vinay0905/output/github-contribution-grid-snake.svg">
   </picture>
-
 </div>
 
 ---
@@ -123,7 +122,7 @@
 |---|---|
 | 🌐 Portfolio | [vinay0905.github.io/newportfolio](https://vinay0905.github.io/newportfolio/) |
 | 💼 LinkedIn | [naga-vinay-0905nva1915](https://www.linkedin.com/in/naga-vinay-0905nva1915/) |
-| 📧 Email | nagavinay0905@gmail.com |
+| 📧 Email | [nagavinay0905@gmail.com](mailto:nagavinay0905@gmail.com) |
 | 📍 Location | Chennai, Tamil Nadu, India |
 
 </div>
